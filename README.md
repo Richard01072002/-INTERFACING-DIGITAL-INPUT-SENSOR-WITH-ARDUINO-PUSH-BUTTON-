@@ -2,7 +2,7 @@
 ## DATE : 15.02.2024
 ## NAME : RICHARDSON A																			             
 ## ROLLNUMBER : 212222233005
-## DEPARTMENT  AIDS
+## DEPARTMENT : AIDS
 
 
 ## AIM:
